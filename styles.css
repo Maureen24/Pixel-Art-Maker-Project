@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+}
+
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+    background-color: beige;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    font-family: Lato;
+}
+
+.choose-text {
+    font-size: 32px;
+    padding: 20px;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    width: 30px;
+}
+
+input[type=number] {
+    width: 6em;
+    font-family: Lato;
+}
+
+.form-box {
+    font-family: Lato;
+    padding-left: 10px;
+}
+
+.form-box button {
+    width: 80px;
+    height: 28px;
+    background-color: burlywood;
+    border: none;
+    font-family: 'Lato';
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+#inputHeight,
+#inputWidth {
+    margin-left: 5px;
+    border-radius: 0.5px;
+}
+.color-box {
+    padding: 25px;
+}
+
+.color-text {
+    font-size: 23px;
+    font-weight: 400;
+    padding: 10px 0px 5px 0px;
+    display: inline;
+}
+
+#colorPicker {
+    border: none;
+    background-color: #fff;
+}
+
+.design-text {
+    font-weight: 400;
+    padding: 40px 0px 0px 10px;
+    margin: 20px;
+    font-size: 28px;
+}
