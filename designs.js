@@ -9,7 +9,7 @@ $(document).ready(function () {
         // When size is submitted by the user, call makeGrid()
         makeGrid(gridHeight, gridWidth);
     });
-    
+
     // Your code goes here!
     function makeGrid(height, width) {
         $('tr').remove();
