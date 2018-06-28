@@ -4,7 +4,6 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Website] (#published)
 
 ## Instructions
 
